@@ -1,0 +1,16 @@
+# AutoHotkey v2
+# Ignore compiled/generated runtime files
+*.exe
+*.dll
+*.bin
+*.tmp
+*.bak
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
